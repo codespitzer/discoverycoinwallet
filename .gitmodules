@@ -1,0 +1,3 @@
+[submodule "discoverycoin"]
+	path = discoverycoin
+	url = https://github.com/codespitzer/discoverycoin.git
